@@ -1,3 +1,22 @@
 {
-  "destination": []
+  "destination": [
+    {
+      "id": 77.88997518176532,
+      "city": "tttt",
+      "country": "ttttt",
+      "daysNeeded": 6
+    },
+    {
+      "id": 42.876730465003796,
+      "city": "tttt",
+      "country": "tttt",
+      "daysNeeded": 7
+    },
+    {
+      "id": 60.776656359581835,
+      "city": "tttt",
+      "country": "tttt",
+      "daysNeeded": 7
+    }
+  ]
 }
