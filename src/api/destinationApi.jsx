@@ -9,7 +9,6 @@ export const destinationApi = createApi({
     //MUTATION -> POST/PUT/DELETE
     getAllDestination: builder.query({
       query: () => "destination",
-
       providesTags: ["Destinations"],
     }),
 
