@@ -2,15 +2,9 @@
   "destination": [
     {
       "id": "44.22260110942984",
-      "city": "Charlotte",
+      "city": "Concord",
       "country": "USA",
       "daysNeeded": 2
-    },
-    {
-      "id": "90.68671297637366",
-      "city": "zulu",
-      "country": "sc",
-      "daysNeeded": 1
     }
   ]
 }
